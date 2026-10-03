@@ -1,0 +1,290 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "blog": "المقالات",
+    "categories": "التصنيفات",
+    "about": "حول",
+    "login": "تسجيل الدخول",
+    "register": "التسجيل",
+    "profile": "الملف الشخصي",
+    "logout": "تسجيل الخروج",
+    "dashboard": "لوحة التحكم",
+    "publish": "نشر",
+    "search": "بحث"
+  },
+
+  "home": {
+    "title": "قصص، أفكار وتأملات",
+    "subtitle": "مدونة تحريرية حول التقنية والتصميم والثقافة الرقمية.",
+    "cta": "تصفح المقالات",
+    "featured": "مميز",
+    "latest": "أحدث المقالات"
+  },
+
+  "auth": {
+    "login": "تسجيل الدخول",
+    "loginTitle": "تسجيل الدخول",
+    "register": "إنشاء حساب",
+    "registerTitle": "التسجيل",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "name": "الاسم الكامل",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "forgot": "نسيت كلمة المرور؟",
+    "forgotTitle": "نسيت كلمة المرور",
+    "resetPassword": "إعادة تعيين كلمة المرور",
+    "newPassword": "كلمة مرور جديدة",
+    "noAccount": "ليس لديك حساب؟",
+    "hasAccount": "لديك حساب بالفعل؟",
+    "google": "المتابعة بحساب Google",
+    "or": "أو",
+    "verifyEmail": "تحقق من بريدك الإلكتروني",
+    "verifyEmailSent": "تم إرسال رابط التأكيد إلى",
+    "verifyEmailInfo": "اضغط عليه لتفعيل حسابك.",
+    "resendEmail": "إعادة إرسال البريد",
+    "emailResent": "تم إعادة إرسال البريد",
+    "resetEmailSent": "تم إرسال بريد إعادة التعيين إلى",
+    "resetEmailInfo": "تحقق من صندوق الوارد.",
+    "sendResetLink": "إرسال الرابط",
+    "backToLogin": "العودة لتسجيل الدخول",
+    "resetInfo": "أدخل بريدك الإلكتروني، سنرسل لك رابطًا لإعادة تعيين كلمة المرور.",
+    "passwordUpdated": "تم تحديث كلمة المرور",
+    "connected": "تم الاتصال!",
+    "loggedOut": "تم تسجيل الخروج",
+    "updatePassword": "تأكيد"
+  },
+
+  "common": {
+    "loading": "جار التحميل...",
+    "empty": "لا توجد نتائج",
+    "error": "حدث خطأ ما",
+    "retry": "إعادة المحاولة",
+    "search": "بحث",
+    "seeAll": "عرض الكل",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "create": "إنشاء",
+    "update": "تحديث",
+    "back": "رجوع",
+    "yes": "نعم",
+    "no": "لا",
+    "confirm": "تأكيد",
+    "close": "إغلاق",
+    "required": "مطلوب",
+    "optional": "اختياري",
+    "refresh": "تحديث",
+    "refreshed": "تم التحديث"
+  },
+
+  "blog": {
+    "filter": {
+      "all": "الكل",
+      "mine": "مقالاتي",
+      "others": "أخرى"
+    },
+    "emptyMine": "لم تنشر أي مقالة بعد.",
+    "createFirst": "أنشئ مقالتي الأولى",
+    "articlesCount": "مقالة",
+    "articlesCountPlural": "مقالات"
+  },
+
+  "post": {
+    "notFound": "المقالة غير موجودة",
+    "edit": "تعديل",
+    "draft": "مسودة",
+    "published": "منشور",
+    "related": "مقالات مشابهة",
+    "comments": "التعليقات",
+    "tags": "الوسوم",
+    "readingTime": "دقيقة قراءة",
+    "by": "بواسطة",
+    "updated": "تم التحديث",
+    "likedBy": "أعجبهم",
+    "noLikesYet": "لم يعجب أحد بهذا المقال بعد.",
+    "likesError": "خطأ في تحميل الإعجابات.",
+    "like": "أعجبني",
+    "liked": "أعجبني بالفعل",
+    "unlike": "إزالة الإعجاب"
+  },
+
+  "comments": {
+    "title": "التعليقات",
+    "placeholder": "اكتب تعليقًا…",
+    "send": "إرسال",
+    "loginRequired": "للتعليق.",
+    "added": "تمت إضافة التعليق",
+    "deleted": "تم حذف التعليق",
+    "deleteConfirm": "حذف هذا التعليق؟",
+    "empty": "لا توجد تعليقات بعد."
+  },
+
+  "dashboard": {
+    "title": "لوحة التحكم",
+    "authorSection": "الكاتب",
+    "adminSection": "المشرف",
+    "myPosts": "مقالاتي",
+    "newPost": "مقال جديد",
+    "overview": "نظرة عامة",
+    "users": "المستخدمون",
+    "allPosts": "جميع المقالات",
+    "comments": "التعليقات",
+    "likes": "الإعجابات",
+    "backToSite": "العودة إلى الموقع"
+  },
+
+  "author": {
+    "dashboardTitle": "مقالاتي",
+    "empty": "لا توجد مقالات بعد",
+    "createFirst": "أنشئ مقالتي الأولى",
+    "notConnected": "يجب تسجيل الدخول",
+    "draft": "مسودة",
+    "published": "منشور"
+  },
+
+  "postEditor": {
+    "newTitle": "مقال جديد",
+    "editTitle": "تعديل المقالة",
+    "title": "العنوان",
+    "slug": "الرابط",
+    "slugPlaceholder": "اتركه فارغًا للتوليد التلقائي",
+    "excerpt": "الملخص",
+    "content": "المحتوى",
+    "category": "التصنيف",
+    "categoryPlaceholder": "— اختر —",
+    "tags": "الوسوم (مفصولة بفواصل)",
+    "tagsPlaceholder": "react, design, supabase",
+    "image": "الصورة الرئيسية",
+    "publishNow": "انشر الآن",
+    "create": "إنشاء",
+    "update": "تحديث",
+    "cancel": "إلغاء",
+    "titleRequired": "العنوان مطلوب",
+    "contentRequired": "المحتوى مطلوب",
+    "categoryRequired": "التصنيف مطلوب",
+    "slugTaken": "هذا الرابط مستخدم بالفعل، غيّره",
+    "created": "تم إنشاء المقالة",
+    "updated": "تم تحديث المقالة",
+    "deleted": "تم حذف المقالة",
+    "deleteConfirm": "حذف هذه المقالة؟",
+    "viewArticle": "عرض المقالة",
+    "notOwner": "يمكنك فقط تعديل مقالاتك الخاصة"
+  },
+
+  "admin": {
+    "dashboardTitle": "الإدارة",
+    "usersTitle": "المستخدمون",
+    "postsTitle": "جميع المقالات",
+    "commentsTitle": "التعليقات",
+    "likesTitle": "الإعجابات",
+
+    "userName": "الاسم",
+    "userEmail": "البريد الإلكتروني",
+    "userRole": "الدور",
+    "userJoined": "تاريخ التسجيل",
+    "postTitle": "العنوان",
+    "postAuthor": "الكاتب",
+    "postStatus": "الحالة",
+    "postDate": "التاريخ",
+    "commentUser": "المستخدم",
+    "commentPost": "المقالة",
+    "commentContent": "المحتوى",
+
+    "roleUpdated": "تم تحديث الدور",
+    "commentHidden": "تم إخفاء التعليق",
+    "commentVisible": "تم إظهار التعليق",
+    "commentDeleted": "تم حذف التعليق",
+
+    "hide": "إخفاء",
+    "unhide": "إظهار",
+    "statusVisible": "مرئي",
+    "statusHidden": "مخفي",
+
+    "statUsers": "المستخدمون",
+    "statPosts": "المقالات",
+    "statComments": "التعليقات",
+    "statLikes": "الإعجابات",
+    "last24h": "آخر 24 ساعة",
+    "topLikedPosts": "المقالات الأكثر إعجاباً",
+    "noLikesData": "لا توجد بيانات إعجابات بعد.",
+    "noLikes": "لا توجد إعجابات بعد.",
+    "totalLikes": "المجموع",
+    "confirmDeleteLike": "حذف هذا الإعجاب؟",
+
+    "notLoggedIn": "يجب تسجيل الدخول.",
+    "notAdmin": "تم رفض الوصول. الدور الحالي: {{role}}",
+    "noRowUpdated": "لم يتم تحديث أي سجل. تحقق من صلاحياتك."
+  },
+
+  "profile": {
+    "title": "الملف الشخصي",
+    "memberSince": "عضو منذ",
+    "editName": "تعديل الاسم",
+    "nameUpdated": "تم تحديث الاسم",
+    "avatarUpdated": "تم تحديث الصورة",
+    "logout": "تسجيل الخروج",
+    "save": "حفظ"
+  },
+
+  "search": {
+    "title": "بحث",
+    "placeholder": "العنوان، الوسم، التصنيف…",
+    "results": "نتيجة",
+    "resultsPlural": "نتائج",
+    "for": "لـ",
+    "searching": "جار البحث...",
+    "noResults": "لا توجد نتائج."
+  },
+
+  "about": {
+    "title": "حول",
+    "tagline": "مجلة رقمية، بين الحبر والبكسل.",
+    "p1": "Le Journal مدونة تحريرية مستقلة تستكشف التكنولوجيا والتصميم والثقافة الرقمية بعناية مجلة مطبوعة.",
+    "p2": "كل مقال مصمم كقراءة بطيئة: طباعة أنيقة، نص متنفس، صور مختارة. بعيدًا عن ضجيج التدفقات اللانهائية.",
+    "p3": "نعتقد أن النص الجيد يستحق تصميمًا جيدًا. لهذا السبب تم بناء المشروع باستخدام React و Supabase وتصميم تحريري مستوحى من الورق.",
+    "statLanguages": "لغات",
+    "statArticles": "مقالات",
+    "statHandmade": "صناعة يدوية"
+  },
+
+  "notFound": {
+    "title": "الصفحة غير موجودة",
+    "message": "هذه الصفحة غير موجودة.",
+    "backHome": "العودة إلى الرئيسية"
+  },
+
+  "errors": {
+    "generic": "حدث خطأ ما",
+    "network": "فشل الاتصال، تحقق من شبكتك",
+    "unauthorized": "ليس لديك إذن لهذا الإجراء",
+    "notFound": "المورد غير موجود",
+    "invalidEmail": "بريد إلكتروني غير صالح",
+    "weakPassword": "كلمة المرور قصيرة جدًا (6 أحرف على الأقل)",
+    "passwordMismatch": "كلمتا المرور غير متطابقتين",
+    "emailInUse": "هذا البريد الإلكتروني مستخدم بالفعل",
+    "invalidCredentials": "بريد إلكتروني أو كلمة مرور غير صحيحة",
+    "emailNotConfirmed": "تحقق من بريدك الإلكتروني قبل تسجيل الدخول"
+  },
+
+  "categories": {
+    "Tech": "تقنية",
+    "Design": "تصميم",
+    "Culture": "ثقافة",
+    "Business": "أعمال",
+    "Voyage": "سفر",
+    "Opinion": "رأي",
+    "Sport": "رياضة",
+    "Science": "علوم",
+    "Santé": "صحة",
+    "Éducation": "تعليم",
+    "Politique": "سياسة",
+    "Divertissement": "ترفيه"
+  },
+
+  "language": {
+    "fr": "Français",
+    "en": "English",
+    "ar": "العربية"
+  }
+}

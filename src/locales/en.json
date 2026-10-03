@@ -1,0 +1,290 @@
+{
+  "nav": {
+    "home": "Home",
+    "blog": "Articles",
+    "categories": "Categories",
+    "about": "About",
+    "login": "Log in",
+    "register": "Sign up",
+    "profile": "Profile",
+    "logout": "Log out",
+    "dashboard": "Dashboard",
+    "publish": "Publish",
+    "search": "Search"
+  },
+
+  "home": {
+    "title": "Stories, ideas and reflections",
+    "subtitle": "An editorial blog about technology, design and digital culture.",
+    "cta": "Browse articles",
+    "featured": "Featured",
+    "latest": "Latest articles"
+  },
+
+  "auth": {
+    "login": "Log in",
+    "loginTitle": "Log in",
+    "register": "Create an account",
+    "registerTitle": "Sign up",
+    "email": "Email",
+    "password": "Password",
+    "name": "Full name",
+    "confirmPassword": "Confirm password",
+    "forgot": "Forgot password?",
+    "forgotTitle": "Forgot password",
+    "resetPassword": "Reset password",
+    "newPassword": "New password",
+    "noAccount": "No account?",
+    "hasAccount": "Already have an account?",
+    "google": "Continue with Google",
+    "or": "or",
+    "verifyEmail": "Verify your email",
+    "verifyEmailSent": "A confirmation link was sent to",
+    "verifyEmailInfo": "Click it to activate your account.",
+    "resendEmail": "Resend email",
+    "emailResent": "Email resent",
+    "resetEmailSent": "A reset email was sent to",
+    "resetEmailInfo": "Check your inbox.",
+    "sendResetLink": "Send link",
+    "backToLogin": "Back to login",
+    "resetInfo": "Enter your email, we'll send you a link to reset your password.",
+    "passwordUpdated": "Password updated",
+    "connected": "Logged in!",
+    "loggedOut": "Logged out",
+    "updatePassword": "Confirm"
+  },
+
+  "common": {
+    "loading": "Loading…",
+    "empty": "No results",
+    "error": "Something went wrong",
+    "retry": "Retry",
+    "search": "Search",
+    "seeAll": "See all",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "update": "Update",
+    "back": "Back",
+    "yes": "Yes",
+    "no": "No",
+    "confirm": "Confirm",
+    "close": "Close",
+    "required": "Required",
+    "optional": "Optional",
+    "refresh": "Refresh",
+    "refreshed": "Refreshed"
+  },
+
+  "blog": {
+    "filter": {
+      "all": "All",
+      "mine": "My articles",
+      "others": "Others"
+    },
+    "emptyMine": "You haven't published any articles yet.",
+    "createFirst": "Create my first article",
+    "articlesCount": "article",
+    "articlesCountPlural": "articles"
+  },
+
+  "post": {
+    "notFound": "Article not found",
+    "edit": "Edit",
+    "draft": "Draft",
+    "published": "Published",
+    "related": "Related articles",
+    "comments": "Comments",
+    "tags": "Tags",
+    "readingTime": "min read",
+    "by": "by",
+    "updated": "Updated",
+    "likedBy": "Liked by",
+    "noLikesYet": "No one has liked this article yet.",
+    "likesError": "Error loading likes.",
+    "like": "Like",
+    "liked": "Liked",
+    "unlike": "Unlike"
+  },
+
+  "comments": {
+    "title": "Comments",
+    "placeholder": "Write a comment…",
+    "send": "Send",
+    "loginRequired": "to comment.",
+    "added": "Comment added",
+    "deleted": "Comment deleted",
+    "deleteConfirm": "Delete this comment?",
+    "empty": "No comments yet."
+  },
+
+  "dashboard": {
+    "title": "Dashboard",
+    "authorSection": "Author",
+    "adminSection": "Admin",
+    "myPosts": "My articles",
+    "newPost": "New article",
+    "overview": "Overview",
+    "users": "Users",
+    "allPosts": "All articles",
+    "comments": "Comments",
+    "likes": "Likes",
+    "backToSite": "Back to site"
+  },
+
+  "author": {
+    "dashboardTitle": "My articles",
+    "empty": "No articles yet",
+    "createFirst": "Create my first article",
+    "notConnected": "You must be logged in",
+    "draft": "Draft",
+    "published": "Published"
+  },
+
+  "postEditor": {
+    "newTitle": "New article",
+    "editTitle": "Edit article",
+    "title": "Title",
+    "slug": "Slug (URL)",
+    "slugPlaceholder": "leave empty to auto-generate",
+    "excerpt": "Excerpt",
+    "content": "Content",
+    "category": "Category",
+    "categoryPlaceholder": "— Choose —",
+    "tags": "Tags (comma-separated)",
+    "tagsPlaceholder": "react, design, supabase",
+    "image": "Main image",
+    "publishNow": "Publish now",
+    "create": "Create",
+    "update": "Update",
+    "cancel": "Cancel",
+    "titleRequired": "Title required",
+    "contentRequired": "Content required",
+    "categoryRequired": "Category required",
+    "slugTaken": "This slug is already used, change it",
+    "created": "Article created",
+    "updated": "Article updated",
+    "deleted": "Article deleted",
+    "deleteConfirm": "Delete this article?",
+    "viewArticle": "View article",
+    "notOwner": "You can only edit your own articles"
+  },
+
+  "admin": {
+    "dashboardTitle": "Admin",
+    "usersTitle": "Users",
+    "postsTitle": "All articles",
+    "commentsTitle": "Comments",
+    "likesTitle": "Likes",
+
+    "userName": "Name",
+    "userEmail": "Email",
+    "userRole": "Role",
+    "userJoined": "Joined",
+    "postTitle": "Title",
+    "postAuthor": "Author",
+    "postStatus": "Status",
+    "postDate": "Date",
+    "commentUser": "User",
+    "commentPost": "Post",
+    "commentContent": "Content",
+
+    "roleUpdated": "Role updated",
+    "commentHidden": "Comment hidden",
+    "commentVisible": "Comment made visible",
+    "commentDeleted": "Comment deleted",
+
+    "hide": "Hide",
+    "unhide": "Unhide",
+    "statusVisible": "visible",
+    "statusHidden": "hidden",
+
+    "statUsers": "Users",
+    "statPosts": "Posts",
+    "statComments": "Comments",
+    "statLikes": "Likes",
+    "last24h": "last 24h",
+    "topLikedPosts": "Most liked posts",
+    "noLikesData": "No likes data yet.",
+    "noLikes": "No likes yet.",
+    "totalLikes": "Total",
+    "confirmDeleteLike": "Delete this like?",
+
+    "notLoggedIn": "You must be logged in.",
+    "notAdmin": "Access denied. Current role: {{role}}",
+    "noRowUpdated": "No row updated. Check your permissions."
+  },
+
+  "profile": {
+    "title": "Profile",
+    "memberSince": "Member since",
+    "editName": "Edit name",
+    "nameUpdated": "Name updated",
+    "avatarUpdated": "Avatar updated",
+    "logout": "Log out",
+    "save": "Save"
+  },
+
+  "search": {
+    "title": "Search",
+    "placeholder": "Title, tag, category…",
+    "results": "result",
+    "resultsPlural": "results",
+    "for": "for",
+    "searching": "Searching…",
+    "noResults": "No results."
+  },
+
+  "about": {
+    "title": "About",
+    "tagline": "A digital magazine, between ink and pixels.",
+    "p1": "Le Journal is an independent editorial blog exploring technology, design and digital culture with the care of a printed magazine.",
+    "p2": "Each article is designed as a slow read: refined typography, breathing text, curated images. Far from the noise of infinite feeds.",
+    "p3": "We believe good text deserves good layout. That's why the project is built with React, Supabase and a paper-inspired editorial design.",
+    "statLanguages": "Languages",
+    "statArticles": "Articles",
+    "statHandmade": "Handmade"
+  },
+
+  "notFound": {
+    "title": "Page not found",
+    "message": "This page doesn't exist.",
+    "backHome": "Back to home"
+  },
+
+  "errors": {
+    "generic": "Something went wrong",
+    "network": "Connection failed, check your network",
+    "unauthorized": "You don't have permission for this action",
+    "notFound": "Resource not found",
+    "invalidEmail": "Invalid email",
+    "weakPassword": "Password too short (min 6 characters)",
+    "passwordMismatch": "Passwords don't match",
+    "emailInUse": "This email is already in use",
+    "invalidCredentials": "Incorrect email or password",
+    "emailNotConfirmed": "Verify your email before logging in"
+  },
+
+  "categories": {
+    "Tech": "Tech",
+    "Design": "Design",
+    "Culture": "Culture",
+    "Business": "Business",
+    "Voyage": "Travel",
+    "Opinion": "Opinion",
+    "Sport": "Sport",
+    "Science": "Science",
+    "Santé": "Health",
+    "Éducation": "Education",
+    "Politique": "Politics",
+    "Divertissement": "Entertainment"
+  },
+
+  "language": {
+    "fr": "Français",
+    "en": "English",
+    "ar": "العربية"
+  }
+}

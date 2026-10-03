@@ -1,0 +1,290 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "blog": "Articles",
+    "categories": "Catégories",
+    "about": "À propos",
+    "login": "Connexion",
+    "register": "Inscription",
+    "profile": "Profil",
+    "logout": "Déconnexion",
+    "dashboard": "Dashboard",
+    "publish": "Publier",
+    "search": "Rechercher"
+  },
+
+  "home": {
+    "title": "Histoires, idées et réflexions",
+    "subtitle": "Un blog éditorial sur la technologie, le design et la culture numérique.",
+    "cta": "Découvrir les articles",
+    "featured": "À la une",
+    "latest": "Derniers articles"
+  },
+
+  "auth": {
+    "login": "Se connecter",
+    "loginTitle": "Connexion",
+    "register": "Créer un compte",
+    "registerTitle": "Inscription",
+    "email": "Email",
+    "password": "Mot de passe",
+    "name": "Nom complet",
+    "confirmPassword": "Confirmer le mot de passe",
+    "forgot": "Mot de passe oublié ?",
+    "forgotTitle": "Mot de passe oublié",
+    "resetPassword": "Réinitialiser le mot de passe",
+    "newPassword": "Nouveau mot de passe",
+    "noAccount": "Pas de compte ?",
+    "hasAccount": "Déjà un compte ?",
+    "google": "Continuer avec Google",
+    "or": "ou",
+    "verifyEmail": "Vérifie ton email",
+    "verifyEmailSent": "Un lien de confirmation a été envoyé à",
+    "verifyEmailInfo": "Clique dessus pour activer ton compte.",
+    "resendEmail": "Renvoyer l'email",
+    "emailResent": "Email renvoyé",
+    "resetEmailSent": "Un email de réinitialisation a été envoyé à",
+    "resetEmailInfo": "Vérifie ta boîte de réception.",
+    "sendResetLink": "Envoyer le lien",
+    "backToLogin": "Retour à la connexion",
+    "resetInfo": "Saisis ton email, nous t'enverrons un lien pour réinitialiser ton mot de passe.",
+    "passwordUpdated": "Mot de passe mis à jour",
+    "connected": "Connecté !",
+    "loggedOut": "Déconnecté",
+    "updatePassword": "Valider"
+  },
+
+  "common": {
+    "loading": "Chargement…",
+    "empty": "Aucun résultat",
+    "error": "Une erreur est survenue",
+    "retry": "Réessayer",
+    "search": "Rechercher",
+    "seeAll": "Tout voir",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "create": "Créer",
+    "update": "Mettre à jour",
+    "back": "Retour",
+    "yes": "Oui",
+    "no": "Non",
+    "confirm": "Confirmer",
+    "close": "Fermer",
+    "required": "Obligatoire",
+    "optional": "Optionnel",
+    "refresh": "Rafraîchir",
+    "refreshed": "Actualisé"
+  },
+
+  "blog": {
+    "filter": {
+      "all": "Tous",
+      "mine": "Mes articles",
+      "others": "Autres"
+    },
+    "emptyMine": "Tu n'as pas encore publié d'articles.",
+    "createFirst": "Créer mon premier article",
+    "articlesCount": "article",
+    "articlesCountPlural": "articles"
+  },
+
+  "post": {
+    "notFound": "Article introuvable",
+    "edit": "Modifier",
+    "draft": "Brouillon",
+    "published": "Publié",
+    "related": "Articles similaires",
+    "comments": "Commentaires",
+    "tags": "Tags",
+    "readingTime": "min de lecture",
+    "by": "par",
+    "updated": "Modifié",
+    "likedBy": "Aimé par",
+    "noLikesYet": "Personne n'a encore aimé cet article.",
+    "likesError": "Erreur de chargement des likes.",
+    "like": "J'aime",
+    "liked": "J'aime déjà",
+    "unlike": "Retirer le like"
+  },
+
+  "comments": {
+    "title": "Commentaires",
+    "placeholder": "Écrire un commentaire…",
+    "send": "Envoyer",
+    "loginRequired": "pour commenter.",
+    "added": "Commentaire ajouté",
+    "deleted": "Commentaire supprimé",
+    "deleteConfirm": "Supprimer ce commentaire ?",
+    "empty": "Aucun commentaire pour l'instant."
+  },
+
+  "dashboard": {
+    "title": "Dashboard",
+    "authorSection": "Auteur",
+    "adminSection": "Admin",
+    "myPosts": "Mes articles",
+    "newPost": "Nouvel article",
+    "overview": "Vue d'ensemble",
+    "users": "Utilisateurs",
+    "allPosts": "Tous les articles",
+    "comments": "Commentaires",
+    "likes": "Likes",
+    "backToSite": "Retour au site"
+  },
+
+  "author": {
+    "dashboardTitle": "Mes articles",
+    "empty": "Aucun article pour l'instant",
+    "createFirst": "Créer mon premier article",
+    "notConnected": "Tu dois être connecté",
+    "draft": "Brouillon",
+    "published": "Publié"
+  },
+
+  "postEditor": {
+    "newTitle": "Nouvel article",
+    "editTitle": "Modifier l'article",
+    "title": "Titre",
+    "slug": "Slug (URL)",
+    "slugPlaceholder": "laisser vide pour générer automatiquement",
+    "excerpt": "Résumé",
+    "content": "Contenu",
+    "category": "Catégorie",
+    "categoryPlaceholder": "— Choisir —",
+    "tags": "Tags (séparés par virgule)",
+    "tagsPlaceholder": "react, design, supabase",
+    "image": "Image principale",
+    "publishNow": "Publier immédiatement",
+    "create": "Créer",
+    "update": "Mettre à jour",
+    "cancel": "Annuler",
+    "titleRequired": "Titre requis",
+    "contentRequired": "Contenu requis",
+    "categoryRequired": "Catégorie requise",
+    "slugTaken": "Ce slug est déjà utilisé, change-le",
+    "created": "Article créé",
+    "updated": "Article mis à jour",
+    "deleted": "Article supprimé",
+    "deleteConfirm": "Supprimer cet article ?",
+    "viewArticle": "Voir l'article",
+    "notOwner": "Tu ne peux modifier que tes propres articles"
+  },
+
+  "admin": {
+    "dashboardTitle": "Administration",
+    "usersTitle": "Utilisateurs",
+    "postsTitle": "Tous les articles",
+    "commentsTitle": "Commentaires",
+    "likesTitle": "Likes",
+
+    "userName": "Nom",
+    "userEmail": "Email",
+    "userRole": "Rôle",
+    "userJoined": "Inscrit le",
+    "postTitle": "Titre",
+    "postAuthor": "Auteur",
+    "postStatus": "Statut",
+    "postDate": "Date",
+    "commentUser": "Utilisateur",
+    "commentPost": "Article",
+    "commentContent": "Contenu",
+
+    "roleUpdated": "Rôle mis à jour",
+    "commentHidden": "Commentaire masqué",
+    "commentVisible": "Commentaire rendu visible",
+    "commentDeleted": "Commentaire supprimé",
+
+    "hide": "Masquer",
+    "unhide": "Démasquer",
+    "statusVisible": "visible",
+    "statusHidden": "masqué",
+
+    "statUsers": "Utilisateurs",
+    "statPosts": "Articles",
+    "statComments": "Commentaires",
+    "statLikes": "Likes",
+    "last24h": "dernières 24h",
+    "topLikedPosts": "Articles les plus aimés",
+    "noLikesData": "Pas encore de données de likes.",
+    "noLikes": "Aucun like pour le moment.",
+    "totalLikes": "Total",
+    "confirmDeleteLike": "Supprimer ce like ?",
+
+    "notLoggedIn": "Vous devez être connecté.",
+    "notAdmin": "Accès refusé. Rôle actuel : {{role}}",
+    "noRowUpdated": "Aucune ligne modifiée. Vérifiez vos droits."
+  },
+
+  "profile": {
+    "title": "Profil",
+    "memberSince": "Membre depuis",
+    "editName": "Modifier le nom",
+    "nameUpdated": "Nom mis à jour",
+    "avatarUpdated": "Avatar mis à jour",
+    "logout": "Déconnexion",
+    "save": "Enregistrer"
+  },
+
+  "search": {
+    "title": "Rechercher",
+    "placeholder": "Titre, tag, catégorie…",
+    "results": "résultat",
+    "resultsPlural": "résultats",
+    "for": "pour",
+    "searching": "Recherche…",
+    "noResults": "Aucun résultat."
+  },
+
+  "about": {
+    "title": "À propos",
+    "tagline": "Un magazine numérique, entre encre et pixels.",
+    "p1": "Le Journal est un blog éditorial indépendant qui explore la technologie, le design et la culture numérique avec le soin d'un magazine imprimé.",
+    "p2": "Chaque article est pensé comme une lecture lente : typographie soignée, texte respirant, images choisies. Loin du bruit des flux infinis.",
+    "p3": "Nous croyons qu'un bon texte mérite une bonne mise en page. C'est pourquoi le projet est construit avec React, Supabase et un design éditorial inspiré du papier.",
+    "statLanguages": "Langues",
+    "statArticles": "Articles",
+    "statHandmade": "Fait main"
+  },
+
+  "notFound": {
+    "title": "Page introuvable",
+    "message": "Cette page n'existe pas.",
+    "backHome": "Retour à l'accueil"
+  },
+
+  "errors": {
+    "generic": "Une erreur est survenue",
+    "network": "Connexion impossible, vérifie ton réseau",
+    "unauthorized": "Tu n'as pas la permission pour cette action",
+    "notFound": "Ressource introuvable",
+    "invalidEmail": "Email invalide",
+    "weakPassword": "Mot de passe trop court (min 6 caractères)",
+    "passwordMismatch": "Les mots de passe ne correspondent pas",
+    "emailInUse": "Cet email est déjà utilisé",
+    "invalidCredentials": "Email ou mot de passe incorrect",
+    "emailNotConfirmed": "Vérifie ton email avant de te connecter"
+  },
+
+  "categories": {
+    "Tech": "Tech",
+    "Design": "Design",
+    "Culture": "Culture",
+    "Business": "Business",
+    "Voyage": "Voyage",
+    "Opinion": "Opinion",
+    "Sport": "Sport",
+    "Science": "Science",
+    "Santé": "Santé",
+    "Éducation": "Éducation",
+    "Politique": "Politique",
+    "Divertissement": "Divertissement"
+  },
+
+  "language": {
+    "fr": "Français",
+    "en": "English",
+    "ar": "العربية"
+  }
+}

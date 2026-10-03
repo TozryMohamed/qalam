@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600;700&family=Noto+Sans+Arabic:wght@400;500;700&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #F7F5F0;
+  --color-surface: #FFFFFF;
+  --color-ink: #171717;
+  --color-muted: #66635D;
+  --color-border: #DDD9D0;
+  --color-accent: #C65D3B;
+  --color-accent2: #2F5D50;
+
+  --font-sans: Inter, system-ui, sans-serif;
+  --font-serif: "Playfair Display", serif;
+  --font-arabic: "Noto Sans Arabic", sans-serif;
+}
+
+/* ============================================
+   Base
+   ============================================ */
+
+html,
+body,
+#root {
+  height: 100%;
+  background-color: #F7F5F0;
+  color: #171717;
+}
+
+/* ============================================
+   Typographie arabe — meilleure lisibilité
+   ============================================ */
+
+[dir="rtl"] {
+  font-family: "Noto Sans Arabic", sans-serif;
+}
+
+/* Contenu arabe : interligne plus généreux */
+
+[dir="rtl"] p,
+[dir="rtl"] .prose {
+  line-height: 2;
+  letter-spacing: 0.01em;
+}
+
+/* Titres arabes */
+
+[dir="rtl"] h1,
+[dir="rtl"] h2,
+[dir="rtl"] h3 {
+  line-height: 1.5;
+  letter-spacing: 0;
+}
+
+/* Listes */
+
+[dir="rtl"] ul,
+[dir="rtl"] ol {
+  padding-right: 1.5rem;
+  padding-left: 0;
+}
+
+/* Blockquotes */
+
+[dir="rtl"] blockquote {
+  border-right: 3px solid #C65D3B;
+  border-left: none;
+  padding-right: 1rem;
+  padding-left: 0;
+}
+
+/* ============================================
+   Contenu des articles
+   ============================================ */
+
+.prose {
+  white-space: pre-line;
+}
+
+/* ============================================
+   Police arabe dédiée
+   ============================================ */
+
+.font-arabic {
+  font-family: "Noto Sans Arabic", sans-serif;
+}
